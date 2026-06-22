@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
 ## Linked List
 |  |
 | ------- |
