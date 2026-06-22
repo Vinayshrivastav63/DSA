@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinayshrivastav63/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vinayshrivastav63/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -61,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vinayshrivastav63/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinayshrivastav63/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
