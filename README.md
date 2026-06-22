@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vinayshrivastav63/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayshrivastav63/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 ## Bit Manipulation
 |  |
 | ------- |
