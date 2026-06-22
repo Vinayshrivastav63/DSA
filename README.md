@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinayshrivastav63/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vinayshrivastav63/DSA/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Vinayshrivastav63/DSA/tree/master/0743-network-delay-time) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
