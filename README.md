@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Vinayshrivastav63/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
