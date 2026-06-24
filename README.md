@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vinayshrivastav63/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
 ## Matrix
