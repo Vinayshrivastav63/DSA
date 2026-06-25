@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinayshrivastav63/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayshrivastav63/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
