@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinayshrivastav63/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Vinayshrivastav63/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vinayshrivastav63/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Vinayshrivastav63/DSA/tree/master/0904-fruit-into-baskets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Vinayshrivastav63/DSA/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
