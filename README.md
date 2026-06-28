@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
 | [2235-add-two-integers](https://github.com/Vinayshrivastav63/DSA/tree/master/2235-add-two-integers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 ## Queue
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
