@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
