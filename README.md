@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vinayshrivastav63/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Vinayshrivastav63/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vinayshrivastav63/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayshrivastav63/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vinayshrivastav63/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinayshrivastav63/DSA/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vinayshrivastav63/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
