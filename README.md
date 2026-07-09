@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vinayshrivastav63/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vinayshrivastav63/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinayshrivastav63/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vinayshrivastav63/DSA/tree/master/0169-majority-element) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
