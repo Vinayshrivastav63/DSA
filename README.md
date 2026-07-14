@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vinayshrivastav63/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vinayshrivastav63/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vinayshrivastav63/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vinayshrivastav63/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vinayshrivastav63/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayshrivastav63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0209-minimum-size-subarray-sum) |
