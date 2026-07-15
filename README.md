@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vinayshrivastav63/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinayshrivastav63/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayshrivastav63/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vinayshrivastav63/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinayshrivastav63/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Vinayshrivastav63/DSA/tree/master/0343-integer-break) |
+| [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/Vinayshrivastav63/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayshrivastav63/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |
