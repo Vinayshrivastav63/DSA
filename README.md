@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinayshrivastav63/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Vinayshrivastav63/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Vinayshrivastav63/DSA/tree/master/0383-ransom-note) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vinayshrivastav63/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vinayshrivastav63/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vinayshrivastav63/DSA/tree/master/0069-sqrtx) |
