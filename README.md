@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayshrivastav63/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinayshrivastav63/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Vinayshrivastav63/DSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
