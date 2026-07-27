@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Vinayshrivastav63/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vinayshrivastav63/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vinayshrivastav63/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Vinayshrivastav63/DSA/tree/master/0125-valid-palindrome) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vinayshrivastav63/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vinayshrivastav63/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
