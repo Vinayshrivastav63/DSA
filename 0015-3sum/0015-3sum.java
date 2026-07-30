@@ -33,13 +33,8 @@ class Solution {
                 }else{
                     r--;
                 }
-
             }
-
-
         }
         return result;
-        
     }
-    
 }
