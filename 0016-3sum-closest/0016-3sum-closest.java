@@ -3,14 +3,11 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
         int closestSum = nums[0] + nums[1] + nums[2];
-
-        for(int i = 0; i<n-2; i++){
+        for(int i = 0; i < n-2; i++){
             int l = i+1;
             int r = n-1;
-
-            while(l<r){
+            while(l < r){
                 int currentSum = nums[i] + nums[l] + nums[r];
-
                 if(currentSum == target){
                     return currentSum;
                 }
@@ -22,10 +19,57 @@ class Solution {
                 }else{
                     r--;
                 }
-
             }
+
         }
         return closestSum;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Arrays.sort(nums);
+        // int n = nums.length;
+        // int closestSum = nums[0] + nums[1] + nums[2];
+
+        // for(int i = 0; i<n-2; i++){
+        //     int l = i+1;
+        //     int r = n-1;
+
+        //     while(l<r){
+        //         int currentSum = nums[i] + nums[l] + nums[r];
+
+        //         if(currentSum == target){
+        //             return currentSum;
+        //         }
+        //         if(Math.abs(currentSum - target) < Math.abs(closestSum - target)){
+        //             closestSum = currentSum;
+        //         }
+        //         if(currentSum < target){
+        //             l++;
+        //         }else{
+        //             r--;
+        //         }
+
+        //     }
+        // }
+        // return closestSum;
+    
         
     }
 }
