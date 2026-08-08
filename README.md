@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vinayshrivastav63/DSA/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Vinayshrivastav63/DSA/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Vinayshrivastav63/DSA/tree/master/2485-find-the-pivot-integer) |
