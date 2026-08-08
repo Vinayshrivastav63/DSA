@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vinayshrivastav63/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vinayshrivastav63/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vinayshrivastav63/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vinayshrivastav63/DSA/tree/master/0342-power-of-four) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vinayshrivastav63/DSA/tree/master/1260-shift-2d-grid) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayshrivastav63/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
