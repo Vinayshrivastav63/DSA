@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vinayshrivastav63/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinayshrivastav63/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Vinayshrivastav63/DSA/tree/master/0704-binary-search) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayshrivastav63/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vinayshrivastav63/DSA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Vinayshrivastav63/DSA/tree/master/1672-richest-customer-wealth) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vinayshrivastav63/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
