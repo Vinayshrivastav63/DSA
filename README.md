@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Vinayshrivastav63/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Vinayshrivastav63/DSA/tree/master/1672-richest-customer-wealth) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayshrivastav63/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3731-find-missing-elements](https://github.com/Vinayshrivastav63/DSA/tree/master/3731-find-missing-elements) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vinayshrivastav63/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayshrivastav63/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/Vinayshrivastav63/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Counting
 |  |
 | ------- |
