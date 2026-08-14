@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vinayshrivastav63/DSA/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinayshrivastav63/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayshrivastav63/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Vinayshrivastav63/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Vinayshrivastav63/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinayshrivastav63/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vinayshrivastav63/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayshrivastav63/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Vinayshrivastav63/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
