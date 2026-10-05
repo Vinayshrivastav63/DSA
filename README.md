@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vinayshrivastav63/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vinayshrivastav63/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Vinayshrivastav63/DSA/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Vinayshrivastav63/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinayshrivastav63/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0941-valid-mountain-array) |
 | [0962-maximum-width-ramp](https://github.com/Vinayshrivastav63/DSA/tree/master/0962-maximum-width-ramp) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayshrivastav63/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Vinayshrivastav63/DSA/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Vinayshrivastav63/DSA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vinayshrivastav63/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinayshrivastav63/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vinayshrivastav63/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Vinayshrivastav63/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/3536-maximum-product-of-two-digits) |
