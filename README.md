@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayshrivastav63/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vinayshrivastav63/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vinayshrivastav63/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vinayshrivastav63/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vinayshrivastav63/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
