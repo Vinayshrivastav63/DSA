@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Vinayshrivastav63/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Vinayshrivastav63/DSA/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinayshrivastav63/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinayshrivastav63/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayshrivastav63/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
