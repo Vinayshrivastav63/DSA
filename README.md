@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Vinayshrivastav63/DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinayshrivastav63/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Vinayshrivastav63/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vinayshrivastav63/DSA/tree/master/0724-find-pivot-index) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Vinayshrivastav63/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vinayshrivastav63/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vinayshrivastav63/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vinayshrivastav63/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayshrivastav63/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayshrivastav63/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinayshrivastav63/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinayshrivastav63/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayshrivastav63/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vinayshrivastav63/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Vinayshrivastav63/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vinayshrivastav63/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Vinayshrivastav63/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayshrivastav63/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayshrivastav63/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1512-number-of-good-pairs) |
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Vinayshrivastav63/DSA/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Shortest Path
@@ -531,4 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayshrivastav63/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Vinayshrivastav63/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
