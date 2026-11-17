@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Vinayshrivastav63/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Vinayshrivastav63/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinayshrivastav63/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinayshrivastav63/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vinayshrivastav63/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/Vinayshrivastav63/DSA/tree/master/2540-minimum-common-value) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Vinayshrivastav63/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayshrivastav63/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayshrivastav63/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinayshrivastav63/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Vinayshrivastav63/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -572,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vinayshrivastav63/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vinayshrivastav63/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
